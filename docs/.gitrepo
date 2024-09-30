@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
 ;
 [subrepo]
-	remote = https://github.com/Billus-Working-Group/RaDBIB-website
+	remote = https://github.com/Billus-Working-Group/LaDBIB-website
 	branch = main
 	commit = 7f349b1f8c506a7fd9c92b9c67638f5d52e64d4d
 	parent = 0b6bdc53178dfe201d16526f3629f2436f1cebf2
